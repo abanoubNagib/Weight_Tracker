@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">getx</string>
+    <string name="facebook_app_id">805808033852013</string>
+    <string name="fb_login_protocol_scheme">fb805808033852013</string>
+    <string name="facebook_client_token">2b41724d1af74ce4070929246729e218</string>
+</resources>
